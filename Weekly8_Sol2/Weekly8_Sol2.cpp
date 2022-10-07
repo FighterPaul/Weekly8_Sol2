@@ -26,20 +26,5 @@ int main()						//Problem 67, Solution 2, ID Student 65010902
 		}
 		printf("%c", decimal);
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
